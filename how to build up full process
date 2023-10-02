@@ -3,4 +3,9 @@ STEP 1:  At First download the arduino software in your system.
   STEP 2: copy the code from my wifi-password-grabbing file.
   STEP 3: as the scirpt is for rubber ducky so we need to convert it for our arduino board.
   STEP 4: here we use https://techchip.net/ducky/ for converting.
-STEP 5: 
+STEP 5: Before covert it make sure you need to change the 22 no. line (your server) . open https://webhook.site/ and copy you Unique url put it here. 
+STEP 6: Now convert it and copy the generated script and paste it in the arduino software.
+STEP 7: verify it;
+STEP 8: upload it .
+
+
