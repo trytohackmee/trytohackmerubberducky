@@ -1,0 +1,6 @@
+Here i am using a ARDUINO pro micro board for making it.
+STEP 1:  At First download the arduino software in your system.
+  STEP 2: copy the code from my wifi-password-grabbing file.
+  STEP 3: as the scirpt is for rubber ducky so we need to convert it for our arduino board.
+  STEP 4: here we use https://techchip.net/ducky/ for converting.
+STEP 5: 
